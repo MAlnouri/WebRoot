@@ -19,7 +19,7 @@ header p {
     font-size: 20px;
 }
 
-div.container {
+div.fluid-container {
     border: solid;
     background-color: orange;
 }
